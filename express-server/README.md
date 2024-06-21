@@ -1,7 +1,3 @@
-# cors-proxy-server
-
-This repository hosts one or multiple CORS proxy servers designed for local development and testing, mimicking the CORS configurations of a production environment. These servers provide a flexible solution for developers to manage CORS restrictions effectively.
-
 # express-server (Express.js Server)
 
 This is a basic Express.js proxy server setup that forwards requests to a target endpoint and returns its response with the required CORS headers added.
