@@ -1,0 +1,27 @@
+{
+  "name": "node-server",
+  "version": "1.0.0",
+  "description": "A Node.js CORS Proxy Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avishka95/cors-proxy-server.git"
+  },
+  "keywords": [
+    "CORS"
+  ],
+  "author": "Avishka Ariyaratne",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/avishka95/cors-proxy-server/issues"
+  },
+  "homepage": "https://github.com/avishka95/cors-proxy-server#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "http-proxy-middleware": "^3.0.0"
+  }
+}
